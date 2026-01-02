@@ -1,6 +1,7 @@
 # DRPS.NuK3.R
 
 ## Como usar:
+  - Baixe o DRPS Nuker.exe
   - Clique aqui [aqui](https://discord.com/developers/applications)
   - Clique em "New Application" no canto superior direito
   - Customize como quiser
